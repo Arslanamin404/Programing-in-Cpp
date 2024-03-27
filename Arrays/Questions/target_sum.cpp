@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int x, size;
+    int x, size, pairs = 0;
     cout << "Size of array: ";
     cin >> size;
     int arr[size];
@@ -12,7 +12,7 @@ int main()
     for (int i = 0; i < size; i++)
     {
         cout << "Element " << i + 1 << ": ";
-        cin>>arr[i];
+        cin >> arr[i];
     }
 
     for (int i = 0; i < size; i++)
@@ -27,9 +27,12 @@ int main()
         for (int j = i + 1; j < sizeof(arr) / sizeof(arr[0]); j++)
         {
             if (arr[i] + arr[j] == x)
+            {
                 cout << "(" << arr[i] << "," << arr[j] << ")";
+                pairs++;
+            }
         }
     }
-
+    cout << "\nTheir are " << pairs << " total number of pairs whose sum = " << x << endl;
     return 0;
 }
