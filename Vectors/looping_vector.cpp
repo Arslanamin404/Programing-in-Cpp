@@ -31,7 +31,7 @@ int main()
     cout << "Start: " << v.front() << endl;
     cout << "End: " << v.back() << endl;
     cout << "----------------------------------\n";
-    
+
     (v.empty()) ? cout << "Vector is empty" : cout << "Vector is not empty";
     cout << "\n----------------------------------\n";
 
