@@ -38,7 +38,7 @@ int binary_search(int *arr, int n, int key)
         {
             return mid;
         }
-        else if (mid < key)
+        else if (arr[mid] < key)
         {
 
             start = mid + 1;
