@@ -10,7 +10,6 @@ void remove_element(std::vector<int> &nums, int value)
     // Traverse the vector using the fast_ptr.
     while (fast_ptr < nums.size())
     {
-        // If the current element at fast_ptr does not match the value to remove...
         if (nums[fast_ptr] != value)
         {
             // Place the non-matching element at slow_ptr and move slow_ptr forward.
