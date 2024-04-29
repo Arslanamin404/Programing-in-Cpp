@@ -5,17 +5,17 @@ Welcome to my C++ Learning Repository! This repository is a collection of my jou
 Feel free to explore the contents and use them as a resource for your own C++ learning journey. Whether you're just starting or already familiar with the language, you might find something interesting here.
 
 ## Contents
-- [Arrays](#arrays)
-- [Basics](#basics)
-- [Conditionals](#conditionals)
-- [Function](#function)
-- [Loops](#loops)
-- [Prefix Sum](#prefix-sum)
-- [Searching](#searching)
-- [Sorting](#sorting)
-- [Target Sum](#target-sum)
-- [Two Pointer](#two-pointer)
-- [Vectors](#vectors)
+- [Arrays](Arrays/)
+- [Basics](Basics/)
+- [Conditionals](Conditionals/)
+- [Function](Function/)
+- [Loops](Loops/)
+- [Prefix Sum](Prefix_sum/)
+- [Searching](Searching/)
+- [Sorting](Sorting/)
+- [Target Sum](Target_Sum/)
+- [Two Pointer](Two_Pointer/)
+- [Vectors](Vectors/)
 
 ## About
 
