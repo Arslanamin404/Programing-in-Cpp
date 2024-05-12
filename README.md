@@ -10,6 +10,7 @@ Feel free to explore the contents and use them as a resource for your own C++ le
 - [Conditionals](Conditionals/)
 - [Function](Function/)
 - [Loops](Loops/)
+- [Pattern Printing](patterns/)
 - [Prefix Sum](Prefix_sum/)
 - [Searching](Searching/)
 - [Sorting](Sorting/)
