@@ -17,7 +17,7 @@ Feel free to explore the contents and use them as a resource for your own C++ le
 - [Target Sum](Target_Sum/)
 - [Two Pointer](Two_Pointer/)
 - [Vectors](Vectors/)
-- [2D Arrays & Vectors]("2D Array_Vector"/)
+- [2D Array_Vectors](2D_Array_Vector/)
 
 ## About
 
